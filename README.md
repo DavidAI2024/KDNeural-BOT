@@ -35,6 +35,11 @@ KDNeuralBot is a Telegram bot powered by advanced AI models, allowing users to e
 
 - **User Management:** Switch between online/offline modes.
 
+- **Message History:** Access a convenient message history feature to review past interactions and revisit previous conversations.
+
+- **Voice Responses:** Enjoy the option to not only read but also listen to responses, providing a dynamic and multi-sensory user experience.
+
+
 ## Dependencies
 
 - `telebot`
