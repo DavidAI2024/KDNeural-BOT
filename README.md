@@ -13,6 +13,10 @@ KDNeuralBot is a Telegram bot powered by advanced AI models, allowing users to e
 
 ## Getting Started
 
+> [!IMPORTANT]
+> **The project is still in the improvement phase, please report any possible changes or improvements that we could make.**
+
+
 ### Usage
 
 1. **Telegram:** Open Telegram and start a chat with [KDNeuralBot](https://t.me/KDGPTBOT).
