@@ -6,7 +6,7 @@
 
 # KDNeuralBot - Your Intelligent Chat Companion
 
-# <div style="background-color: black; padding: 10px;">
+<div style="background-color: black; padding: 10px;">
     <img src="https://i.ibb.co/Lv72Cm7/photo-5098607599397481969-c-removebg-preview.png" width="60px" />
     <a href="https://t.me/KDGPTBOT" style="color: white; text-decoration: none;">
         Click Here to Go to the Bot!
