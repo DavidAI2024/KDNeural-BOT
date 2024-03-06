@@ -6,8 +6,12 @@
 
 # KDNeuralBot - Your Intelligent Chat Companion
 
-# <img src="https://i.ibb.co/Lv72Cm7/photo-5098607599397481969-c-removebg-preview.png" width="60px" />
-![Click Here to Go to the Bot!](https://t.me/KDGPTBOT)
+# <div style="background-color: black; padding: 10px;">
+    <img src="https://i.ibb.co/Lv72Cm7/photo-5098607599397481969-c-removebg-preview.png" width="60px" />
+    <a href="https://t.me/KDGPTBOT" style="color: white; text-decoration: none;">
+        Click Here to Go to the Bot!
+    </a>
+</div>
 
 KDNeuralBot is a Telegram bot powered by advanced AI models, allowing users to engage in intelligent conversations and explore the capabilities of OpenAI's language models.
 
